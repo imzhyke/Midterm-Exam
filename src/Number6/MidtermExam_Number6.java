@@ -70,7 +70,7 @@ public class MidtermExam_Number6 {
         System.out.println("Item: "+item); //To print the item
         System.out.println("Price: $ " + price );  //To print the price
         System.out.println("Shipping: $"+shippingFee);  //To print the shipping cost
-        System.out.println("Total: $ " +totalCost);
+        System.out.println("Total: $ " +totalCost); //To print the total cost
 
     }
 }
